@@ -1,3 +1,10 @@
+## Data Structure
+
+|     |     topic      |
+| :-: | :------------: |
+|  1  | [linkedList]() |
+|  2  | [HashTable]()  |
+
 ## Programmers
 
 | level |          title           |
